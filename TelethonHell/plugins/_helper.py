@@ -7,8 +7,8 @@ from TelethonHell.plugins import *
 
 msg = f"""
 **⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡**
-  •        [📑 Repo 📑](https://github.com/The-HellBot/HellBot)
-  •        [HellBot Network](https://t.me/hellbot_network)
+  •        [📑 Repo 📑](https://github.com/dangerbots/dangercat)
+  •        [HellBot Network](https://t.me/dangerbots)
   •  ©️ {hell_channel} ™
 """
 

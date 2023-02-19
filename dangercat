@@ -71,7 +71,7 @@ startup() {
     check_venv
     pip_works
     configs
-    python3 -m dangercat
+    python3 -m TelethonHell
 }
 
 startup
